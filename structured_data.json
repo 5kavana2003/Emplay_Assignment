@@ -1,0 +1,22 @@
+{
+    "Bid Number": "JA-12345",
+    "Title": "Laptop Purchase",
+    "Due Date": "2024-12-31",
+    "Bid Submission Type": "Online",
+    "Term of Bid": "1 Year",
+    "Pre Bid Meeting": "2024-12-01",
+    "Installation": "Yes",
+    "Bid Bond Requirement": "No",
+    "Delivery Date": "2025-01-15",
+    "Payment Terms": "Net 30",
+    "Any Additional Documentation Required": "No",
+    "MFG for Registration": "Dell",
+    "Contract or Cooperative to use": "Yes",
+    "Model_no": "XYZ-123",
+    "Part_no": "12345-67890",
+    "Product": "Laptop",
+    "contact_info": "contact@company.com",
+    "company_name": "Tech Solutions",
+    "Bid Summary": "A bid for supplying laptops to schools",
+    "Product Specification": "14-inch screen, 8GB RAM, 512GB SSD"
+}
